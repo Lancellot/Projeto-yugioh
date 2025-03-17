@@ -30,7 +30,7 @@ Este projeto foi desenvolvido durante a "Semana do Zero ao Programador Contratad
 ## 🎮 Como Executar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/lancellot/Clone-Yu-Gi-Oh.git
+   git clone https://github.com/lancellot/Projeto-yugioh.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
@@ -39,7 +39,8 @@ Este projeto foi desenvolvido durante a "Semana do Zero ao Programador Contratad
 3. Abra o arquivo `index.html` em seu navegador.
 
 ## 📷 Demonstração
-(Adicione aqui uma captura de tela do projeto ou um link para um vídeo demonstrativo.)
+![Capturar](https://github.com/user-attachments/assets/54fd85bb-ecb0-4700-bd4a-1c8c0c26b59e)
+
 
 ## 📌 Melhorias Futuras
 - Animações e efeitos visuais para as cartas.
